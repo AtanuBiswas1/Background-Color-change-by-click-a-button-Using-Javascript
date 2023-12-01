@@ -1,2 +1,2 @@
 # This is my basic normal  JS project 
-# create a Calculator
+# create a Random Background Color chenger
